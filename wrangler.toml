@@ -1,0 +1,10 @@
+name = "redirect"
+type = "javascript"
+
+[[site]]
+bucket = "./public"
+
+[[redirects]]
+pattern = "/*"
+destination = "https://mohamed3nan.github.io/"
+status = 301
