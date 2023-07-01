@@ -1,6 +1,7 @@
 ### <>"Hello, Friend!"</>
 ---
 <table width="100%">
+<tr>
 <td width="50%">
 <div align="center">
 ```
