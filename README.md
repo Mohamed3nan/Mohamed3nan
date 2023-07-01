@@ -2,7 +2,7 @@
 
 ### <>"Hello, Friend!"</>
 ---
-<table width="100%">
+<table width="100%" align="center">
     <td width="50%">
         <p align="center">
             Hello dfgert ert ert ert ert er t
