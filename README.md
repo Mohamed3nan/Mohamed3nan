@@ -5,7 +5,7 @@
 </h3> 
 
 ---
-<table width="100%">
+<table width="100%" align="center">
     <tr>
         <td width="50%">
             <p align="center">
