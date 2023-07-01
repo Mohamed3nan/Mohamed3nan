@@ -1,7 +1,9 @@
 ### <>"Hello, Friend!"</>
 ---
-<table width="100%">
+<div align="center">
+<table width="100%" style="margin:0 0 0 0;">
     <td width="50%">
+        &nbsp; <br>
         <a href="https://wakatime.com/@mohamed3nan"><img src="https://wakatime.com/badge/user/3741e65c-b1f5-4c15-8419-4c433ee9b28f.svg"></a>
         <img src="https://komarev.com/ghpvc/?username=Mohamed3nan&style=flat&label=github+visits">
                 <details>
@@ -17,6 +19,7 @@
               /_/    \_\ |_| |_|  \__,_| |_| |_|</pre>
     </td>
 </table>
+<div/>
 
 ---
 
