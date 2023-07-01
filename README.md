@@ -14,8 +14,11 @@
                 :ghost:
         </details>
         <a href="https://wakatime.com/@mohamed3nan"><img src="https://wakatime.com/badge/user/3741e65c-b1f5-4c15-8419-4c433ee9b28f.svg"></a>
-        <img src="https://komarev.com/ghpvc/?username=Mohamed3nan&style=flat&label=github+visits">
-        <img src="https://img.shields.io/badge/Hireable-gray?logo=upwork&link=https%3A%2F%2Fwww.upwork.com%2F">
+            <br>
+        <a href="https://www.upwork.com"><img src="https://img.shields.io/badge/Hireable-gray?logo=upwork">
+        <a href="https://www.freelancer.com/"><img src="https://img.shields.io/badge/Hireable-gray?logo=freelancer"> 
+            <br>
+            <img src="https://komarev.com/ghpvc/?username=Mohamed3nan&style=flat&label=github+visits">
         </p>
     </td>
     <td width="50%">
