@@ -1,8 +1,8 @@
 {
-    "rewrites": [
+    "redirects": [
       {
-        "source": "/(.*)",
-        "destination": "https://mohamed3nan.github.io/$1"
+        "source": "/",
+        "destination": "https://mohamed3nan.github.io"
       }
     ]
   }
