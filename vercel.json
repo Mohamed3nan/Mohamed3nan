@@ -1,7 +1,7 @@
 {
     "rewrites": [
       {
-        "source": "/(.*)",
+        "source": "/",
         "destination": "https://mohamed3nan.github.io/"
       }
     ]
