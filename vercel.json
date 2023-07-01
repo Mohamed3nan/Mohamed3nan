@@ -1,8 +1,9 @@
 {
     "rewrites": [
       {
-        "source": "/",
-        "destination": "https://mohamed3nan.github.io/"
+        "source": "/(.*)",
+        "destination": "https://mohamed3nan.github.io/$1",
+        "statusCode": 301
       }
     ]
   }
