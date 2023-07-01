@@ -14,6 +14,7 @@
 ```
 </div>
 </td>
+
 <td width="50%">
 [![wakatime](https://wakatime.com/badge/user/3741e65c-b1f5-4c15-8419-4c433ee9b28f.svg)](https://wakatime.com/@3741e65c-b1f5-4c15-8419-4c433ee9b28f)
 
@@ -23,7 +24,10 @@
 <summary>:robot:</summary>
 :ghost:
 </details>
+
 </td>
+
 </table>
+
 ---
 asdsd sdsd sd s | dssd eer: www.wewe.wewe | sdsdssd: ▼
