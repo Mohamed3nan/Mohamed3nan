@@ -12,7 +12,7 @@ class About:
     This class is about me! :D
     """
     def __init__(self):
-        self.nick_name   = "Anan"
+        self.nickname    = "Anan"
         self.location    = ["Alexandira, Egypt", "Saudi Arabia"]
         self.education   = "BSc in Engineering & Technology"
         self.languages   = ["English", "Arabic"]
