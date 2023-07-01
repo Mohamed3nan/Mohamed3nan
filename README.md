@@ -1,6 +1,9 @@
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
-### <>"Hello, Friend!"</>
+<p align="center">
+    &lt;&gt;Hello, Friend!&lt;/&gt;
+</p> 
+
 ---
 <table width="100%" align="center">
     <td width="50%">
