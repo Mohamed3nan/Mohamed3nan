@@ -23,7 +23,7 @@ class About:
             "Twitter"    : "https://twitter.com/Mohamed3nan",
             "TradingView": "https://tradingview.com/u/Mohamed3nan/#published-scripts",
             "HackerRank" : "https://hackerrank.com/Mohamed3nan",
-            "Discord"    : "@mohamed3nan",
+            "Discord"    : "@Mohamed3nan",
             "Telegram"   : "@Mohamed3nan"
         }
 
