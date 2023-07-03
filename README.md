@@ -12,20 +12,20 @@ class About:
     This class is about me! :D
     """
     def __init__(self):
-        self.nickname    = "Anan"
-        self.location    = ["Alexandira, Egypt", "Saudi Arabia"]
-        self.education   = "BSc in Engineering & Technology"
-        self.languages   = ["English", "Arabic"]
-        self.interests   = ["Coding", "Crypto", "Finance", "Gaming"]
-        self.skills      = ["Python", "Javascript", "HTML", "CSS"]
-        self.links       = {
+        self.nickname  = "Anan"
+        self.location  = ["Alexandira, Egypt", "Saudi Arabia"]
+        self.education = "BSc in Engineering & Technology"
+        self.languages = ["English", "Arabic"]
+        self.interests = ["Coding", "Crypto", "Finance", "Gaming"]
+        self.skills    = ["Python", "Javascript", "HTML", "CSS"]
+        self.links     = {
                             "LinkedIn"   : "https://linkedin.com/in/Mohamed3nan",
                             "Twitter"    : "https://twitter.com/Mohamed3nan",
                             "TradingView": "https://tradingview.com/u/Mohamed3nan/#published-scripts",
                             "HackerRank" : "https://hackerrank.com/Mohamed3nan",
                             "Discord"    : "@Mohamed3nan",
                             "Telegram"   : "@Mohamed3nan"
-                            }
+                         }
 
 Mohamed_Anan = About()
 ```
