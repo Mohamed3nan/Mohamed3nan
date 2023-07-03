@@ -18,7 +18,7 @@ class About:
         self.languages   = ["English", "Arabic"]
         self.interests   = ["Coding", "Crypto", "Finance", "Gaming"]
         self.skills      = ["Python", "Javascript", "HTML", "CSS"]
-        self.links = {
+        self.links       = {
             "LinkedIn"   : "https://linkedin.com/in/Mohamed3nan",
             "Twitter"    : "https://twitter.com/Mohamed3nan",
             "TradingView": "https://tradingview.com/u/Mohamed3nan/#published-scripts",
