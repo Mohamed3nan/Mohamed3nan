@@ -19,13 +19,13 @@ class About:
         self.interests   = ["Coding", "Crypto", "Finance", "Gaming"]
         self.skills      = ["Python", "Javascript", "HTML", "CSS"]
         self.links       = {
-            "LinkedIn"   : "https://linkedin.com/in/Mohamed3nan",
-            "Twitter"    : "https://twitter.com/Mohamed3nan",
-            "TradingView": "https://tradingview.com/u/Mohamed3nan/#published-scripts",
-            "HackerRank" : "https://hackerrank.com/Mohamed3nan",
-            "Discord"    : "@Mohamed3nan",
-            "Telegram"   : "@Mohamed3nan"
-        }
+                            "LinkedIn"   : "https://linkedin.com/in/Mohamed3nan",
+                            "Twitter"    : "https://twitter.com/Mohamed3nan",
+                            "TradingView": "https://tradingview.com/u/Mohamed3nan/#published-scripts",
+                            "HackerRank" : "https://hackerrank.com/Mohamed3nan",
+                            "Discord"    : "@Mohamed3nan",
+                            "Telegram"   : "@Mohamed3nan"
+                            }
 
 Mohamed_Anan = About()
 ```
